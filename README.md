@@ -1,1 +1,1 @@
-# sample
+# N.Ruche samples repositry
